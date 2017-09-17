@@ -1,0 +1,15 @@
+ssh:
+  # Username to SSH with
+  # username:    ubuntu
+  # Client certificate for SSH auth. Leave blank for default
+  # client_keys: /path/to/id_rsa
+  commands:
+    psql:          'psql -U postgres'
+
+
+ui:
+  style: default
+  mouse: true
+
+
+autostart: []
