@@ -11,5 +11,8 @@ ui:
   style: default
   mouse: true
 
-
+# Commands to run on startup
 autostart: []
+
+# Modules to load on startup. e.g: [toshql]
+modules: []
